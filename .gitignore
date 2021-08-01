@@ -12,7 +12,6 @@ XiangHuiOS/XiangHuSDKDemo/XianghuSDK/UnityFramework.framework
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
-/[Pp]ackages/
 *[Bb]uild/
 
 
@@ -84,4 +83,3 @@ Abs/
 #Mac OS System Files
 *.DS_Store
 
-Packages/manifest.json

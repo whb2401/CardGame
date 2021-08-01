@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 92fa092ff4fc28144a800e73a7e3fec6
+timeCreated: 1562654232
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0RefBox
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone007
+    100012: Bone007(mirrored)
+    100014: Bone009
+    100016: Bone009(mirrored)
+    100018: Bone010
+    100020: Bone010(mirrored)
+    100022: Bone011
+    100024: Bone011(mirrored)
+    100026: Bone012
+    100028: Bone012(mirrored)
+    100030: Bone013
+    100032: Bone013(mirrored)
+    100034: Bone014
+    100036: Bone014(mirrored)
+    100038: Bone015
+    100040: Bone015(mirrored)
+    100042: Bone016
+    100044: Bone016(mirrored)
+    100046: Bone017
+    100048: Bone017(mirrored)
+    100050: Bone018
+    100052: Bone018(mirrored)
+    100054: Bone019
+    100056: Bone019(mirrored)
+    100058: Bone020
+    100060: Bone020(mirrored)
+    100062: Bone021
+    100064: Bone021(mirrored)
+    100066: Bone022
+    100068: Bone022(mirrored)
+    100070: Bone023
+    100072: Bone023(mirrored)
+    100074: //RootNode
+    100076: CH_ZhiZhu_501
+    100078: DummyCamera
+    100080: IK Chain001
+    100082: IK Chain002
+    100084: IK Chain003
+    100086: IK Chain004
+    100088: IK Chain005
+    100090: IK Chain006
+    100092: IK Chain007
+    100094: IK Chain008
+    100096: L_foot_01
+    100098: L_foot_02
+    100100: L_foot_03
+    100102: L_qianzi
+    100104: R_foot_01
+    100106: R_foot_02
+    100108: R_foot_03
+    100110: R_qianzi
+    100112: Sk_Particle_Basic
+    100114: Sk_Particle_body
+    100116: Sk_Particle_Top
+    400000: 0RefBox
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone007
+    400012: Bone007(mirrored)
+    400014: Bone009
+    400016: Bone009(mirrored)
+    400018: Bone010
+    400020: Bone010(mirrored)
+    400022: Bone011
+    400024: Bone011(mirrored)
+    400026: Bone012
+    400028: Bone012(mirrored)
+    400030: Bone013
+    400032: Bone013(mirrored)
+    400034: Bone014
+    400036: Bone014(mirrored)
+    400038: Bone015
+    400040: Bone015(mirrored)
+    400042: Bone016
+    400044: Bone016(mirrored)
+    400046: Bone017
+    400048: Bone017(mirrored)
+    400050: Bone018
+    400052: Bone018(mirrored)
+    400054: Bone019
+    400056: Bone019(mirrored)
+    400058: Bone020
+    400060: Bone020(mirrored)
+    400062: Bone021
+    400064: Bone021(mirrored)
+    400066: Bone022
+    400068: Bone022(mirrored)
+    400070: Bone023
+    400072: Bone023(mirrored)
+    400074: //RootNode
+    400076: CH_ZhiZhu_501
+    400078: DummyCamera
+    400080: IK Chain001
+    400082: IK Chain002
+    400084: IK Chain003
+    400086: IK Chain004
+    400088: IK Chain005
+    400090: IK Chain006
+    400092: IK Chain007
+    400094: IK Chain008
+    400096: L_foot_01
+    400098: L_foot_02
+    400100: L_foot_03
+    400102: L_qianzi
+    400104: R_foot_01
+    400106: R_foot_02
+    400108: R_foot_03
+    400110: R_qianzi
+    400112: Sk_Particle_Basic
+    400114: Sk_Particle_body
+    400116: Sk_Particle_Top
+    4300000: CH_ZhiZhu_501
+    9500000: //RootNode
+    13700000: CH_ZhiZhu_501
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

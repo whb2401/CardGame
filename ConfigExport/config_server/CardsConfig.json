@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 10001,
+    "Type": 1,
+    "Name": "蝙蝠",
+    "Model": "CH_BianFu11_01",
+    "Health": 1
+  },
+  {
+    "Id": 10002,
+    "Type": 1,
+    "Name": "剑士",
+    "Model": "CH_BaoXiangGuai10_01",
+    "Health": 3
+  }
+]

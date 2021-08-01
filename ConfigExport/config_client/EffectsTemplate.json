@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 100001,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly4.prefab"
+  },
+  {
+    "Id": 100002,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/p_Hit4.prefab"
+  },
+  {
+    "Id": 100003,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/Magic_01_fly.prefab"
+  },
+  {
+    "Id": 100004,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/Magic_01_hit.prefab"
+  },
+  {
+    "Id": 100005,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly1.prefab"
+  },
+  {
+    "Id": 100006,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit1.prefab"
+  },
+  {
+    "Id": 100007,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly5.prefab"
+  },
+  {
+    "Id": 100008,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit5.prefab"
+  },
+  {
+    "Id": 100009,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly10.prefab"
+  },
+  {
+    "Id": 100010,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit10.prefab"
+  },
+  {
+    "Id": 100011,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly11.prefab"
+  },
+  {
+    "Id": 100012,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit11.prefab"
+  },
+  {
+    "Id": 100013,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly13.prefab"
+  },
+  {
+    "Id": 100014,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit13.prefab"
+  },
+  {
+    "Id": 100015,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly6.prefab"
+  },
+  {
+    "Id": 100016,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit6.prefab"
+  },
+  {
+    "Id": 100017,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Fly15.prefab"
+  },
+  {
+    "Id": 100018,
+    "Usage": 1,
+    "AssetPath": "FX/Demo/P_Hit15.prefab"
+  }
+]

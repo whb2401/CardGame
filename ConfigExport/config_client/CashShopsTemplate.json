@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "Type": 1,
+    "Sort": 10,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d0",
+    "Price": 8.0,
+    "Amount": 100,
+    "FreeAmount": 0,
+    "FirstFreeAmount": 0,
+    "Icon": "D1"
+  },
+  {
+    "Id": 2,
+    "Type": 1,
+    "Sort": 20,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d1",
+    "Price": 18.0,
+    "Amount": 500,
+    "FreeAmount": 50,
+    "FirstFreeAmount": 0,
+    "Icon": "D2"
+  },
+  {
+    "Id": 3,
+    "Type": 1,
+    "Sort": 30,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d2",
+    "Price": 28.0,
+    "Amount": 1000,
+    "FreeAmount": 150,
+    "FirstFreeAmount": 0,
+    "Icon": "D3"
+  },
+  {
+    "Id": 4,
+    "Type": 1,
+    "Sort": 40,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d3",
+    "Price": 68.0,
+    "Amount": 3000,
+    "FreeAmount": 600,
+    "FirstFreeAmount": 0,
+    "Icon": "D4"
+  },
+  {
+    "Id": 5,
+    "Type": 1,
+    "Sort": 50,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d4",
+    "Price": 98.0,
+    "Amount": 5000,
+    "FreeAmount": 1500,
+    "FirstFreeAmount": 0,
+    "Icon": "D5"
+  },
+  {
+    "Id": 6,
+    "Type": 1,
+    "Sort": 60,
+    "Channels": [
+      1
+    ],
+    "PayId": "com.fireknife.d5",
+    "Price": 128.0,
+    "Amount": 10000,
+    "FreeAmount": 5000,
+    "FirstFreeAmount": 0,
+    "Icon": "D6"
+  }
+]

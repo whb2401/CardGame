@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 10001,
+    "MapPath": "L01",
+    "Type": 1,
+    "Name": "01",
+    "StartIndex": 3
+  },
+  {
+    "Id": 10002,
+    "MapPath": "L02",
+    "Type": 1,
+    "Name": "02",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10003,
+    "MapPath": "L03",
+    "Type": 1,
+    "Name": "03",
+    "StartIndex": 4
+  },
+  {
+    "Id": 10004,
+    "MapPath": "L04",
+    "Type": 1,
+    "Name": "04",
+    "StartIndex": 7
+  },
+  {
+    "Id": 10005,
+    "MapPath": "L05",
+    "Type": 1,
+    "Name": "05",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10006,
+    "MapPath": "L06",
+    "Type": 1,
+    "Name": "06",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10007,
+    "MapPath": "L07",
+    "Type": 1,
+    "Name": "07",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10008,
+    "MapPath": "L08",
+    "Type": 1,
+    "Name": "08",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10009,
+    "MapPath": "L09",
+    "Type": 1,
+    "Name": "09",
+    "StartIndex": 6
+  },
+  {
+    "Id": 10010,
+    "MapPath": "L10",
+    "Type": 1,
+    "Name": "10",
+    "StartIndex": 6
+  }
+]

@@ -1,0 +1,132 @@
+
+zhujue.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1069, 176
+  size: 543, 737
+  orig: 565, 737
+  offset: 22, 0
+  index: -1
+di
+  rotate: false
+  xy: 1069, 721
+  size: 886, 1320
+  orig: 886, 1320
+  offset: 0, 0
+  index: -1
+fangguang
+  rotate: false
+  xy: 2, 136
+  size: 541, 279
+  orig: 541, 279
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 417
+  size: 1065, 1624
+  orig: 1065, 1625
+  offset: 0, 1
+  index: -1
+piaodai
+  rotate: false
+  xy: 2485, 742
+  size: 442, 422
+  orig: 442, 422
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 1957, 1166
+  size: 790, 875
+  orig: 790, 875
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 2, 28
+  size: 163, 106
+  orig: 166, 114
+  offset: 3, 8
+  index: -1
+shoubi
+  rotate: false
+  xy: 1957, 726
+  size: 526, 438
+  orig: 526, 438
+  offset: 0, 0
+  index: -1
+shoubi1_L
+  rotate: true
+  xy: 167, 48
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
+shoubi_L
+  rotate: true
+  xy: 545, 231
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: -1
+taiyang
+  rotate: false
+  xy: 2334, 256
+  size: 446, 468
+  orig: 446, 468
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 1808, 93
+  size: 626, 524
+  orig: 676, 524
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 531, 12
+  size: 122, 68
+  orig: 122, 68
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 455, 9
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: true
+  xy: 52, 6
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 545, 169
+  size: 100, 60
+  orig: 100, 60
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 2, 2
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 334, 15
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1

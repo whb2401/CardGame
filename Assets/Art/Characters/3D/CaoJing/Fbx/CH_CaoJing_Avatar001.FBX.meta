@@ -1,72 +1,184 @@
 fileFormatVersion: 2
 guid: eae27662ed332d8409c5b31a21dfbf72
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: Bone01
-    100002: Bone02
-    100004: Bone03
-    100006: Bone04
-    100008: Bone05
-    100010: Bone06
-    100012: Bone07
-    100014: Bone08
-    100016: Bone09
-    100018: Bone10
-    100020: Bone11
-    100022: Bone12
-    100024: Bone15
-    100026: Bone16
-    100028: Bone17
-    100030: Camera01
-    100032: caojing01
-    100034: //RootNode
-    100036: CH_CaoJing_Avatar001
-    100038: Dummy01
-    100040: DummyCamera
-    100042: Ref_Box
-    100044: Sk_Particle_001
-    100046: Sk_Particle_002
-    100048: Sk_Particle_Basic
-    100050: Sk_Particle_Top01
-    400000: Bone01
-    400002: Bone02
-    400004: Bone03
-    400006: Bone04
-    400008: Bone05
-    400010: Bone06
-    400012: Bone07
-    400014: Bone08
-    400016: Bone09
-    400018: Bone10
-    400020: Bone11
-    400022: Bone12
-    400024: Bone15
-    400026: Bone16
-    400028: Bone17
-    400030: Camera01
-    400032: caojing01
-    400034: //RootNode
-    400036: CH_CaoJing_Avatar001
-    400038: Dummy01
-    400040: DummyCamera
-    400042: Ref_Box
-    400044: Sk_Particle_001
-    400046: Sk_Particle_002
-    400048: Sk_Particle_Basic
-    400050: Sk_Particle_Top01
-    4300000: CH_CaoJing_Avatar001
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: CH_CaoJing_Avatar001
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bone01
+  - first:
+      1: 100002
+    second: Bone02
+  - first:
+      1: 100004
+    second: Bone03
+  - first:
+      1: 100006
+    second: Bone04
+  - first:
+      1: 100008
+    second: Bone05
+  - first:
+      1: 100010
+    second: Bone06
+  - first:
+      1: 100012
+    second: Bone07
+  - first:
+      1: 100014
+    second: Bone08
+  - first:
+      1: 100016
+    second: Bone09
+  - first:
+      1: 100018
+    second: Bone10
+  - first:
+      1: 100020
+    second: Bone11
+  - first:
+      1: 100022
+    second: Bone12
+  - first:
+      1: 100024
+    second: Bone15
+  - first:
+      1: 100026
+    second: Bone16
+  - first:
+      1: 100028
+    second: Bone17
+  - first:
+      1: 100030
+    second: Camera01
+  - first:
+      1: 100032
+    second: caojing01
+  - first:
+      1: 100034
+    second: //RootNode
+  - first:
+      1: 100036
+    second: CH_CaoJing_Avatar001
+  - first:
+      1: 100038
+    second: Dummy01
+  - first:
+      1: 100040
+    second: DummyCamera
+  - first:
+      1: 100042
+    second: Ref_Box
+  - first:
+      1: 100044
+    second: Sk_Particle_001
+  - first:
+      1: 100046
+    second: Sk_Particle_002
+  - first:
+      1: 100048
+    second: Sk_Particle_Basic
+  - first:
+      1: 100050
+    second: Sk_Particle_Top01
+  - first:
+      4: 400000
+    second: Bone01
+  - first:
+      4: 400002
+    second: Bone02
+  - first:
+      4: 400004
+    second: Bone03
+  - first:
+      4: 400006
+    second: Bone04
+  - first:
+      4: 400008
+    second: Bone05
+  - first:
+      4: 400010
+    second: Bone06
+  - first:
+      4: 400012
+    second: Bone07
+  - first:
+      4: 400014
+    second: Bone08
+  - first:
+      4: 400016
+    second: Bone09
+  - first:
+      4: 400018
+    second: Bone10
+  - first:
+      4: 400020
+    second: Bone11
+  - first:
+      4: 400022
+    second: Bone12
+  - first:
+      4: 400024
+    second: Bone15
+  - first:
+      4: 400026
+    second: Bone16
+  - first:
+      4: 400028
+    second: Bone17
+  - first:
+      4: 400030
+    second: Camera01
+  - first:
+      4: 400032
+    second: caojing01
+  - first:
+      4: 400034
+    second: //RootNode
+  - first:
+      4: 400036
+    second: CH_CaoJing_Avatar001
+  - first:
+      4: 400038
+    second: Dummy01
+  - first:
+      4: 400040
+    second: DummyCamera
+  - first:
+      4: 400042
+    second: Ref_Box
+  - first:
+      4: 400044
+    second: Sk_Particle_001
+  - first:
+      4: 400046
+    second: Sk_Particle_002
+  - first:
+      4: 400048
+    second: Sk_Particle_Basic
+  - first:
+      4: 400050
+    second: Sk_Particle_Top01
+  - first:
+      43: 4300000
+    second: CH_CaoJing_Avatar001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: CH_CaoJing_Avatar001
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: 'Material #105'
+      name: Material #105
     second: {fileID: 2100000, guid: b426626c57444654fbb0f14206e473c2, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -99,25 +211,32 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -126,10 +245,12 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips:
+  - f45705e798b41d649bc1c5554b5b9b05
+  - 40123b137f93675478ce5784a55b96d9
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -139,13 +260,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 1
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

@@ -1,55 +1,137 @@
 fileFormatVersion: 2
 guid: 0dae5ed72c84e6d4091600c6e5804ccb
-timeCreated: 1562654212
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: 0RefBox
-    100002: Bone001
-    100004: Bone003
-    100006: Bone004
-    100008: Bone005
-    100010: Bone006
-    100012: Bone007
-    100014: Bone008
-    100016: Bone009
-    100018: Bone011
-    100020: Bone011(mirrored)
-    100022: //RootNode
-    100024: CH_ShiLaiMu_101
-    100026: DummyCamera
-    100028: qiu
-    100030: Sk_Particle_Basic
-    100032: Sk_Particle_body
-    100034: Sk_Particle_qiu
-    100036: Sk_Particle_Top
-    400000: 0RefBox
-    400002: Bone001
-    400004: Bone003
-    400006: Bone004
-    400008: Bone005
-    400010: Bone006
-    400012: Bone007
-    400014: Bone008
-    400016: Bone009
-    400018: Bone011
-    400020: Bone011(mirrored)
-    400022: //RootNode
-    400024: CH_ShiLaiMu_101
-    400026: DummyCamera
-    400028: qiu
-    400030: Sk_Particle_Basic
-    400032: Sk_Particle_body
-    400034: Sk_Particle_qiu
-    400036: Sk_Particle_Top
-    4300000: CH_ShiLaiMu_101
-    9500000: //RootNode
-    13700000: CH_ShiLaiMu_101
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 0RefBox
+  - first:
+      1: 100002
+    second: Bone001
+  - first:
+      1: 100004
+    second: Bone003
+  - first:
+      1: 100006
+    second: Bone004
+  - first:
+      1: 100008
+    second: Bone005
+  - first:
+      1: 100010
+    second: Bone006
+  - first:
+      1: 100012
+    second: Bone007
+  - first:
+      1: 100014
+    second: Bone008
+  - first:
+      1: 100016
+    second: Bone009
+  - first:
+      1: 100018
+    second: Bone011
+  - first:
+      1: 100020
+    second: Bone011(mirrored)
+  - first:
+      1: 100022
+    second: //RootNode
+  - first:
+      1: 100024
+    second: CH_ShiLaiMu_101
+  - first:
+      1: 100026
+    second: DummyCamera
+  - first:
+      1: 100028
+    second: qiu
+  - first:
+      1: 100030
+    second: Sk_Particle_Basic
+  - first:
+      1: 100032
+    second: Sk_Particle_body
+  - first:
+      1: 100034
+    second: Sk_Particle_qiu
+  - first:
+      1: 100036
+    second: Sk_Particle_Top
+  - first:
+      4: 400000
+    second: 0RefBox
+  - first:
+      4: 400002
+    second: Bone001
+  - first:
+      4: 400004
+    second: Bone003
+  - first:
+      4: 400006
+    second: Bone004
+  - first:
+      4: 400008
+    second: Bone005
+  - first:
+      4: 400010
+    second: Bone006
+  - first:
+      4: 400012
+    second: Bone007
+  - first:
+      4: 400014
+    second: Bone008
+  - first:
+      4: 400016
+    second: Bone009
+  - first:
+      4: 400018
+    second: Bone011
+  - first:
+      4: 400020
+    second: Bone011(mirrored)
+  - first:
+      4: 400022
+    second: //RootNode
+  - first:
+      4: 400024
+    second: CH_ShiLaiMu_101
+  - first:
+      4: 400026
+    second: DummyCamera
+  - first:
+      4: 400028
+    second: qiu
+  - first:
+      4: 400030
+    second: Sk_Particle_Basic
+  - first:
+      4: 400032
+    second: Sk_Particle_body
+  - first:
+      4: 400034
+    second: Sk_Particle_qiu
+  - first:
+      4: 400036
+    second: Sk_Particle_Top
+  - first:
+      43: 4300000
+    second: CH_ShiLaiMu_101
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: CH_ShiLaiMu_101
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -62,12 +144,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -75,26 +160,52 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 8562ac0a9e9afef46a0c6677c6f80618
+  - 4ba33747e65926b48bdbd45570fe278d
+  - 7e2c6847e4c9eb245a6c184d56ecd43e
+  - 3f7fce741b722004ba0fc7460b827cd0
+  - 2cfed6e19f0c1d540a2671d9c8b70bcc
+  - d62640b393ab2c34395dee50aeccf625
+  - de98e04b6c4cdce48acce7bd9c6383dc
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -104,14 +215,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

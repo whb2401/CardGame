@@ -1,135 +1,377 @@
 fileFormatVersion: 2
 guid: 1a9f90a5af1822041ac8336e963de2a9
-timeCreated: 1562654231
-licenseType: Free
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: 0RefBox
-    100002: Bone001
-    100004: Bone002
-    100006: Bone003
-    100008: Bone004
-    100010: Bone007
-    100012: Bone007(mirrored)
-    100014: Bone009
-    100016: Bone009(mirrored)
-    100018: Bone010
-    100020: Bone010(mirrored)
-    100022: Bone011
-    100024: Bone011(mirrored)
-    100026: Bone012
-    100028: Bone012(mirrored)
-    100030: Bone013
-    100032: Bone013(mirrored)
-    100034: Bone014
-    100036: Bone014(mirrored)
-    100038: Bone015
-    100040: Bone015(mirrored)
-    100042: Bone016
-    100044: Bone016(mirrored)
-    100046: Bone017
-    100048: Bone017(mirrored)
-    100050: Bone018
-    100052: Bone018(mirrored)
-    100054: Bone019
-    100056: Bone019(mirrored)
-    100058: Bone020
-    100060: Bone020(mirrored)
-    100062: Bone021
-    100064: Bone021(mirrored)
-    100066: Bone022
-    100068: Bone022(mirrored)
-    100070: Bone023
-    100072: Bone023(mirrored)
-    100074: //RootNode
-    100076: CH_ZhiZhu_511
-    100078: DummyCamera
-    100080: IK Chain001
-    100082: IK Chain002
-    100084: IK Chain003
-    100086: IK Chain004
-    100088: IK Chain005
-    100090: IK Chain006
-    100092: IK Chain007
-    100094: IK Chain008
-    100096: L_foot_01
-    100098: L_foot_02
-    100100: L_foot_03
-    100102: L_qianzi
-    100104: R_foot_01
-    100106: R_foot_02
-    100108: R_foot_03
-    100110: R_qianzi
-    100112: Sk_Particle_Basic
-    100114: Sk_Particle_body
-    100116: Sk_Particle_Top
-    400000: 0RefBox
-    400002: Bone001
-    400004: Bone002
-    400006: Bone003
-    400008: Bone004
-    400010: Bone007
-    400012: Bone007(mirrored)
-    400014: Bone009
-    400016: Bone009(mirrored)
-    400018: Bone010
-    400020: Bone010(mirrored)
-    400022: Bone011
-    400024: Bone011(mirrored)
-    400026: Bone012
-    400028: Bone012(mirrored)
-    400030: Bone013
-    400032: Bone013(mirrored)
-    400034: Bone014
-    400036: Bone014(mirrored)
-    400038: Bone015
-    400040: Bone015(mirrored)
-    400042: Bone016
-    400044: Bone016(mirrored)
-    400046: Bone017
-    400048: Bone017(mirrored)
-    400050: Bone018
-    400052: Bone018(mirrored)
-    400054: Bone019
-    400056: Bone019(mirrored)
-    400058: Bone020
-    400060: Bone020(mirrored)
-    400062: Bone021
-    400064: Bone021(mirrored)
-    400066: Bone022
-    400068: Bone022(mirrored)
-    400070: Bone023
-    400072: Bone023(mirrored)
-    400074: //RootNode
-    400076: CH_ZhiZhu_511
-    400078: DummyCamera
-    400080: IK Chain001
-    400082: IK Chain002
-    400084: IK Chain003
-    400086: IK Chain004
-    400088: IK Chain005
-    400090: IK Chain006
-    400092: IK Chain007
-    400094: IK Chain008
-    400096: L_foot_01
-    400098: L_foot_02
-    400100: L_foot_03
-    400102: L_qianzi
-    400104: R_foot_01
-    400106: R_foot_02
-    400108: R_foot_03
-    400110: R_qianzi
-    400112: Sk_Particle_Basic
-    400114: Sk_Particle_body
-    400116: Sk_Particle_Top
-    4300000: CH_ZhiZhu_511
-    9500000: //RootNode
-    13700000: CH_ZhiZhu_511
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 0RefBox
+  - first:
+      1: 100002
+    second: Bone001
+  - first:
+      1: 100004
+    second: Bone002
+  - first:
+      1: 100006
+    second: Bone003
+  - first:
+      1: 100008
+    second: Bone004
+  - first:
+      1: 100010
+    second: Bone007
+  - first:
+      1: 100012
+    second: Bone007(mirrored)
+  - first:
+      1: 100014
+    second: Bone009
+  - first:
+      1: 100016
+    second: Bone009(mirrored)
+  - first:
+      1: 100018
+    second: Bone010
+  - first:
+      1: 100020
+    second: Bone010(mirrored)
+  - first:
+      1: 100022
+    second: Bone011
+  - first:
+      1: 100024
+    second: Bone011(mirrored)
+  - first:
+      1: 100026
+    second: Bone012
+  - first:
+      1: 100028
+    second: Bone012(mirrored)
+  - first:
+      1: 100030
+    second: Bone013
+  - first:
+      1: 100032
+    second: Bone013(mirrored)
+  - first:
+      1: 100034
+    second: Bone014
+  - first:
+      1: 100036
+    second: Bone014(mirrored)
+  - first:
+      1: 100038
+    second: Bone015
+  - first:
+      1: 100040
+    second: Bone015(mirrored)
+  - first:
+      1: 100042
+    second: Bone016
+  - first:
+      1: 100044
+    second: Bone016(mirrored)
+  - first:
+      1: 100046
+    second: Bone017
+  - first:
+      1: 100048
+    second: Bone017(mirrored)
+  - first:
+      1: 100050
+    second: Bone018
+  - first:
+      1: 100052
+    second: Bone018(mirrored)
+  - first:
+      1: 100054
+    second: Bone019
+  - first:
+      1: 100056
+    second: Bone019(mirrored)
+  - first:
+      1: 100058
+    second: Bone020
+  - first:
+      1: 100060
+    second: Bone020(mirrored)
+  - first:
+      1: 100062
+    second: Bone021
+  - first:
+      1: 100064
+    second: Bone021(mirrored)
+  - first:
+      1: 100066
+    second: Bone022
+  - first:
+      1: 100068
+    second: Bone022(mirrored)
+  - first:
+      1: 100070
+    second: Bone023
+  - first:
+      1: 100072
+    second: Bone023(mirrored)
+  - first:
+      1: 100074
+    second: //RootNode
+  - first:
+      1: 100076
+    second: CH_ZhiZhu_511
+  - first:
+      1: 100078
+    second: DummyCamera
+  - first:
+      1: 100080
+    second: IK Chain001
+  - first:
+      1: 100082
+    second: IK Chain002
+  - first:
+      1: 100084
+    second: IK Chain003
+  - first:
+      1: 100086
+    second: IK Chain004
+  - first:
+      1: 100088
+    second: IK Chain005
+  - first:
+      1: 100090
+    second: IK Chain006
+  - first:
+      1: 100092
+    second: IK Chain007
+  - first:
+      1: 100094
+    second: IK Chain008
+  - first:
+      1: 100096
+    second: L_foot_01
+  - first:
+      1: 100098
+    second: L_foot_02
+  - first:
+      1: 100100
+    second: L_foot_03
+  - first:
+      1: 100102
+    second: L_qianzi
+  - first:
+      1: 100104
+    second: R_foot_01
+  - first:
+      1: 100106
+    second: R_foot_02
+  - first:
+      1: 100108
+    second: R_foot_03
+  - first:
+      1: 100110
+    second: R_qianzi
+  - first:
+      1: 100112
+    second: Sk_Particle_Basic
+  - first:
+      1: 100114
+    second: Sk_Particle_body
+  - first:
+      1: 100116
+    second: Sk_Particle_Top
+  - first:
+      4: 400000
+    second: 0RefBox
+  - first:
+      4: 400002
+    second: Bone001
+  - first:
+      4: 400004
+    second: Bone002
+  - first:
+      4: 400006
+    second: Bone003
+  - first:
+      4: 400008
+    second: Bone004
+  - first:
+      4: 400010
+    second: Bone007
+  - first:
+      4: 400012
+    second: Bone007(mirrored)
+  - first:
+      4: 400014
+    second: Bone009
+  - first:
+      4: 400016
+    second: Bone009(mirrored)
+  - first:
+      4: 400018
+    second: Bone010
+  - first:
+      4: 400020
+    second: Bone010(mirrored)
+  - first:
+      4: 400022
+    second: Bone011
+  - first:
+      4: 400024
+    second: Bone011(mirrored)
+  - first:
+      4: 400026
+    second: Bone012
+  - first:
+      4: 400028
+    second: Bone012(mirrored)
+  - first:
+      4: 400030
+    second: Bone013
+  - first:
+      4: 400032
+    second: Bone013(mirrored)
+  - first:
+      4: 400034
+    second: Bone014
+  - first:
+      4: 400036
+    second: Bone014(mirrored)
+  - first:
+      4: 400038
+    second: Bone015
+  - first:
+      4: 400040
+    second: Bone015(mirrored)
+  - first:
+      4: 400042
+    second: Bone016
+  - first:
+      4: 400044
+    second: Bone016(mirrored)
+  - first:
+      4: 400046
+    second: Bone017
+  - first:
+      4: 400048
+    second: Bone017(mirrored)
+  - first:
+      4: 400050
+    second: Bone018
+  - first:
+      4: 400052
+    second: Bone018(mirrored)
+  - first:
+      4: 400054
+    second: Bone019
+  - first:
+      4: 400056
+    second: Bone019(mirrored)
+  - first:
+      4: 400058
+    second: Bone020
+  - first:
+      4: 400060
+    second: Bone020(mirrored)
+  - first:
+      4: 400062
+    second: Bone021
+  - first:
+      4: 400064
+    second: Bone021(mirrored)
+  - first:
+      4: 400066
+    second: Bone022
+  - first:
+      4: 400068
+    second: Bone022(mirrored)
+  - first:
+      4: 400070
+    second: Bone023
+  - first:
+      4: 400072
+    second: Bone023(mirrored)
+  - first:
+      4: 400074
+    second: //RootNode
+  - first:
+      4: 400076
+    second: CH_ZhiZhu_511
+  - first:
+      4: 400078
+    second: DummyCamera
+  - first:
+      4: 400080
+    second: IK Chain001
+  - first:
+      4: 400082
+    second: IK Chain002
+  - first:
+      4: 400084
+    second: IK Chain003
+  - first:
+      4: 400086
+    second: IK Chain004
+  - first:
+      4: 400088
+    second: IK Chain005
+  - first:
+      4: 400090
+    second: IK Chain006
+  - first:
+      4: 400092
+    second: IK Chain007
+  - first:
+      4: 400094
+    second: IK Chain008
+  - first:
+      4: 400096
+    second: L_foot_01
+  - first:
+      4: 400098
+    second: L_foot_02
+  - first:
+      4: 400100
+    second: L_foot_03
+  - first:
+      4: 400102
+    second: L_qianzi
+  - first:
+      4: 400104
+    second: R_foot_01
+  - first:
+      4: 400106
+    second: R_foot_02
+  - first:
+      4: 400108
+    second: R_foot_03
+  - first:
+      4: 400110
+    second: R_qianzi
+  - first:
+      4: 400112
+    second: Sk_Particle_Basic
+  - first:
+      4: 400114
+    second: Sk_Particle_body
+  - first:
+      4: 400116
+    second: Sk_Particle_Top
+  - first:
+      43: 4300000
+    second: CH_ZhiZhu_511
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: CH_ZhiZhu_511
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -142,12 +384,15 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
@@ -155,26 +400,52 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips:
+  - 041dc1bb55049414081942b3811f5404
+  - be771b27e30ce714fb82c9a4b825375c
+  - f4d85229938552440bd362dd2b920770
+  - 922b870480c8ba34d89171afd2363367
+  - 3463d07f00f0ce345905eb812649c126
+  - 01f2440cb8d32bd43893e7ab1bb85f06
+  - 4d6eb3914fb583741acbb9719a117baf
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -184,14 +455,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
-    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

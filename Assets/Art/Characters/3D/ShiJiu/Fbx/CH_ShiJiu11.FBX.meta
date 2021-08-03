@@ -1,128 +1,368 @@
 fileFormatVersion: 2
 guid: 905f0fc865bb4c74da9d1d902591eebe
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: 0RefBox
-    100002: Bip001
-    100004: Bip001 Head
-    100006: Bip001 L Calf
-    100008: Bip001 L Clavicle
-    100010: Bip001 L Finger0
-    100012: Bip001 L Foot
-    100014: Bip001 L Forearm
-    100016: Bip001 L Hand
-    100018: Bip001 L HorseLink
-    100020: Bip001 L Thigh
-    100022: Bip001 L Toe0
-    100024: Bip001 L UpperArm
-    100026: Bip001 Neck
-    100028: Bip001 Neck1
-    100030: Bip001 Pelvis
-    100032: Bip001 R Calf
-    100034: Bip001 R Clavicle
-    100036: Bip001 R Finger0
-    100038: Bip001 R Foot
-    100040: Bip001 R Forearm
-    100042: Bip001 R Hand
-    100044: Bip001 R HorseLink
-    100046: Bip001 R Thigh
-    100048: Bip001 R Toe0
-    100050: Bip001 R UpperArm
-    100052: Bip001 Spine
-    100054: Bip001 Spine1
-    100056: Bip001 Spine2
-    100058: Bone001
-    100060: Bone002
-    100062: Bone003
-    100064: Bone004
-    100066: Bone005
-    100068: Bone007
-    100070: Bone008
-    100072: Bone009
-    100074: Bone010
-    100076: Bone012
-    100078: Bone012(mirrored)
-    100080: Bone013
-    100082: Bone013(mirrored)
-    100084: Bone014
-    100086: Bone014(mirrored)
-    100088: Bone015
-    100090: Bone017
-    100092: Bone018
-    100094: Bone021
-    100096: Bone021(mirrored)
-    100098: Bone022
-    100100: //RootNode
-    100102: CH_ShiJiu11
-    100104: DummyCamera
-    100106: Sk_Particle_Basic
-    100108: Sk_Particle_Body
-    100110: Sk_Particle_Hand_L
-    100112: Sk_Particle_Hand_R
-    100114: Sk_Particle_Top
-    400000: 0RefBox
-    400002: Bip001
-    400004: Bip001 Head
-    400006: Bip001 L Calf
-    400008: Bip001 L Clavicle
-    400010: Bip001 L Finger0
-    400012: Bip001 L Foot
-    400014: Bip001 L Forearm
-    400016: Bip001 L Hand
-    400018: Bip001 L HorseLink
-    400020: Bip001 L Thigh
-    400022: Bip001 L Toe0
-    400024: Bip001 L UpperArm
-    400026: Bip001 Neck
-    400028: Bip001 Neck1
-    400030: Bip001 Pelvis
-    400032: Bip001 R Calf
-    400034: Bip001 R Clavicle
-    400036: Bip001 R Finger0
-    400038: Bip001 R Foot
-    400040: Bip001 R Forearm
-    400042: Bip001 R Hand
-    400044: Bip001 R HorseLink
-    400046: Bip001 R Thigh
-    400048: Bip001 R Toe0
-    400050: Bip001 R UpperArm
-    400052: Bip001 Spine
-    400054: Bip001 Spine1
-    400056: Bip001 Spine2
-    400058: Bone001
-    400060: Bone002
-    400062: Bone003
-    400064: Bone004
-    400066: Bone005
-    400068: Bone007
-    400070: Bone008
-    400072: Bone009
-    400074: Bone010
-    400076: Bone012
-    400078: Bone012(mirrored)
-    400080: Bone013
-    400082: Bone013(mirrored)
-    400084: Bone014
-    400086: Bone014(mirrored)
-    400088: Bone015
-    400090: Bone017
-    400092: Bone018
-    400094: Bone021
-    400096: Bone021(mirrored)
-    400098: Bone022
-    400100: //RootNode
-    400102: CH_ShiJiu11
-    400104: DummyCamera
-    400106: Sk_Particle_Basic
-    400108: Sk_Particle_Body
-    400110: Sk_Particle_Hand_L
-    400112: Sk_Particle_Hand_R
-    400114: Sk_Particle_Top
-    4300000: CH_ShiJiu11
-    9500000: //RootNode
-    11100000: //RootNode
-    13700000: CH_ShiJiu11
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: 0RefBox
+  - first:
+      1: 100002
+    second: Bip001
+  - first:
+      1: 100004
+    second: Bip001 Head
+  - first:
+      1: 100006
+    second: Bip001 L Calf
+  - first:
+      1: 100008
+    second: Bip001 L Clavicle
+  - first:
+      1: 100010
+    second: Bip001 L Finger0
+  - first:
+      1: 100012
+    second: Bip001 L Foot
+  - first:
+      1: 100014
+    second: Bip001 L Forearm
+  - first:
+      1: 100016
+    second: Bip001 L Hand
+  - first:
+      1: 100018
+    second: Bip001 L HorseLink
+  - first:
+      1: 100020
+    second: Bip001 L Thigh
+  - first:
+      1: 100022
+    second: Bip001 L Toe0
+  - first:
+      1: 100024
+    second: Bip001 L UpperArm
+  - first:
+      1: 100026
+    second: Bip001 Neck
+  - first:
+      1: 100028
+    second: Bip001 Neck1
+  - first:
+      1: 100030
+    second: Bip001 Pelvis
+  - first:
+      1: 100032
+    second: Bip001 R Calf
+  - first:
+      1: 100034
+    second: Bip001 R Clavicle
+  - first:
+      1: 100036
+    second: Bip001 R Finger0
+  - first:
+      1: 100038
+    second: Bip001 R Foot
+  - first:
+      1: 100040
+    second: Bip001 R Forearm
+  - first:
+      1: 100042
+    second: Bip001 R Hand
+  - first:
+      1: 100044
+    second: Bip001 R HorseLink
+  - first:
+      1: 100046
+    second: Bip001 R Thigh
+  - first:
+      1: 100048
+    second: Bip001 R Toe0
+  - first:
+      1: 100050
+    second: Bip001 R UpperArm
+  - first:
+      1: 100052
+    second: Bip001 Spine
+  - first:
+      1: 100054
+    second: Bip001 Spine1
+  - first:
+      1: 100056
+    second: Bip001 Spine2
+  - first:
+      1: 100058
+    second: Bone001
+  - first:
+      1: 100060
+    second: Bone002
+  - first:
+      1: 100062
+    second: Bone003
+  - first:
+      1: 100064
+    second: Bone004
+  - first:
+      1: 100066
+    second: Bone005
+  - first:
+      1: 100068
+    second: Bone007
+  - first:
+      1: 100070
+    second: Bone008
+  - first:
+      1: 100072
+    second: Bone009
+  - first:
+      1: 100074
+    second: Bone010
+  - first:
+      1: 100076
+    second: Bone012
+  - first:
+      1: 100078
+    second: Bone012(mirrored)
+  - first:
+      1: 100080
+    second: Bone013
+  - first:
+      1: 100082
+    second: Bone013(mirrored)
+  - first:
+      1: 100084
+    second: Bone014
+  - first:
+      1: 100086
+    second: Bone014(mirrored)
+  - first:
+      1: 100088
+    second: Bone015
+  - first:
+      1: 100090
+    second: Bone017
+  - first:
+      1: 100092
+    second: Bone018
+  - first:
+      1: 100094
+    second: Bone021
+  - first:
+      1: 100096
+    second: Bone021(mirrored)
+  - first:
+      1: 100098
+    second: Bone022
+  - first:
+      1: 100100
+    second: //RootNode
+  - first:
+      1: 100102
+    second: CH_ShiJiu11
+  - first:
+      1: 100104
+    second: DummyCamera
+  - first:
+      1: 100106
+    second: Sk_Particle_Basic
+  - first:
+      1: 100108
+    second: Sk_Particle_Body
+  - first:
+      1: 100110
+    second: Sk_Particle_Hand_L
+  - first:
+      1: 100112
+    second: Sk_Particle_Hand_R
+  - first:
+      1: 100114
+    second: Sk_Particle_Top
+  - first:
+      4: 400000
+    second: 0RefBox
+  - first:
+      4: 400002
+    second: Bip001
+  - first:
+      4: 400004
+    second: Bip001 Head
+  - first:
+      4: 400006
+    second: Bip001 L Calf
+  - first:
+      4: 400008
+    second: Bip001 L Clavicle
+  - first:
+      4: 400010
+    second: Bip001 L Finger0
+  - first:
+      4: 400012
+    second: Bip001 L Foot
+  - first:
+      4: 400014
+    second: Bip001 L Forearm
+  - first:
+      4: 400016
+    second: Bip001 L Hand
+  - first:
+      4: 400018
+    second: Bip001 L HorseLink
+  - first:
+      4: 400020
+    second: Bip001 L Thigh
+  - first:
+      4: 400022
+    second: Bip001 L Toe0
+  - first:
+      4: 400024
+    second: Bip001 L UpperArm
+  - first:
+      4: 400026
+    second: Bip001 Neck
+  - first:
+      4: 400028
+    second: Bip001 Neck1
+  - first:
+      4: 400030
+    second: Bip001 Pelvis
+  - first:
+      4: 400032
+    second: Bip001 R Calf
+  - first:
+      4: 400034
+    second: Bip001 R Clavicle
+  - first:
+      4: 400036
+    second: Bip001 R Finger0
+  - first:
+      4: 400038
+    second: Bip001 R Foot
+  - first:
+      4: 400040
+    second: Bip001 R Forearm
+  - first:
+      4: 400042
+    second: Bip001 R Hand
+  - first:
+      4: 400044
+    second: Bip001 R HorseLink
+  - first:
+      4: 400046
+    second: Bip001 R Thigh
+  - first:
+      4: 400048
+    second: Bip001 R Toe0
+  - first:
+      4: 400050
+    second: Bip001 R UpperArm
+  - first:
+      4: 400052
+    second: Bip001 Spine
+  - first:
+      4: 400054
+    second: Bip001 Spine1
+  - first:
+      4: 400056
+    second: Bip001 Spine2
+  - first:
+      4: 400058
+    second: Bone001
+  - first:
+      4: 400060
+    second: Bone002
+  - first:
+      4: 400062
+    second: Bone003
+  - first:
+      4: 400064
+    second: Bone004
+  - first:
+      4: 400066
+    second: Bone005
+  - first:
+      4: 400068
+    second: Bone007
+  - first:
+      4: 400070
+    second: Bone008
+  - first:
+      4: 400072
+    second: Bone009
+  - first:
+      4: 400074
+    second: Bone010
+  - first:
+      4: 400076
+    second: Bone012
+  - first:
+      4: 400078
+    second: Bone012(mirrored)
+  - first:
+      4: 400080
+    second: Bone013
+  - first:
+      4: 400082
+    second: Bone013(mirrored)
+  - first:
+      4: 400084
+    second: Bone014
+  - first:
+      4: 400086
+    second: Bone014(mirrored)
+  - first:
+      4: 400088
+    second: Bone015
+  - first:
+      4: 400090
+    second: Bone017
+  - first:
+      4: 400092
+    second: Bone018
+  - first:
+      4: 400094
+    second: Bone021
+  - first:
+      4: 400096
+    second: Bone021(mirrored)
+  - first:
+      4: 400098
+    second: Bone022
+  - first:
+      4: 400100
+    second: //RootNode
+  - first:
+      4: 400102
+    second: CH_ShiJiu11
+  - first:
+      4: 400104
+    second: DummyCamera
+  - first:
+      4: 400106
+    second: Sk_Particle_Basic
+  - first:
+      4: 400108
+    second: Sk_Particle_Body
+  - first:
+      4: 400110
+    second: Sk_Particle_Hand_L
+  - first:
+      4: 400112
+    second: Sk_Particle_Hand_R
+  - first:
+      4: 400114
+    second: Sk_Particle_Top
+  - first:
+      43: 4300000
+    second: CH_ShiJiu11
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: CH_ShiJiu11
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -130,7 +370,7 @@ ModelImporter:
       name: CH_ShiJiu11
     second: {fileID: 2100000, guid: a4307842321473a4daca51f515b1926c, type: 2}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 0
@@ -163,25 +403,32 @@ ModelImporter:
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 0
     importBlendShapes: 1
     importCameras: 0
     importLights: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
     indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 0.01
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
@@ -190,10 +437,20 @@ ModelImporter:
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
+  referencedClips:
+  - 8bf0c5d9fb5dedf4883d4aaa43ae502e
+  - 6133bc61d53e2eb40a5f146c178775a8
+  - d03695999dbdcce4491d1f421aace6d3
+  - 2edf49fdfae216c4baa497fb7dfd1da6
+  - 59ac25eb485c4ef4bbc76f74287a8855
+  - 62fd54261c1c8854188b1a1f6ead41a4
+  - caafa0beb96cf954e82c6b22ed4d0140
+  - aba3773a476de4e40b49b6aca8375fb1
+  - 8314e847f6ac60c46ab466aff723d1b8
+  - 1c08a4c21c22f774b853675888bba371
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -203,13 +460,17 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 1
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
